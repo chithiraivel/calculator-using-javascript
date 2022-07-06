@@ -1,0 +1,32 @@
+.parent1
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+
+}
+.parent{
+    height: 420px;
+    background-color: rgb(66, 88, 45);
+    border-radius: 10px;
+    box-shadow: 10px 20px 40px rgb(102, 212, 231);
+    background-image:url("16.jpg") ;
+}
+button
+{
+    padding: 20px;
+    margin: 10px 10px 5px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 10px 20px 40px rgb(202, 111, 111);
+    background-color: rgb(214, 125, 210);
+}
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(179, 211, 105);
+    font-size: 30px;
+    
+}
